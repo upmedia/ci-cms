@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'obelix1';
-$db['default']['database'] = 'cmsadmin';
+$db['default']['username'] = 'USRNAME';
+$db['default']['password'] = 'PASSWORD';
+$db['default']['database'] = 'DATEBASE NAME';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = FALSE;
