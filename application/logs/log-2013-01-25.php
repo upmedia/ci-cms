@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-01-25 07:43:36 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:46 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:48 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:49 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:50 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:51 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:52 --> 404 Page Not Found --> http://cmsadmin.dev/img/darth_vadar.jpg
+ERROR - 2013-01-25 07:45:52 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:54 --> 404 Page Not Found --> http://cmsadmin.dev/img/darth_vadar.jpg
+ERROR - 2013-01-25 07:45:54 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:45:56 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:00 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:01 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:02 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:05 --> 404 Page Not Found --> http://cmsadmin.dev/img/darth_vadar.jpg
+ERROR - 2013-01-25 07:46:06 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:09 --> 404 Page Not Found --> http://cmsadmin.dev/img/darth_vadar.jpg
+ERROR - 2013-01-25 07:46:09 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:10 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:11 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:46:12 --> 404 Page Not Found --> http://cmsadmin.dev/img/darth_vadar.jpg
+ERROR - 2013-01-25 07:46:12 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
+ERROR - 2013-01-25 07:47:06 --> 404 Page Not Found --> http://cmsadmin.dev/favicon.ico
